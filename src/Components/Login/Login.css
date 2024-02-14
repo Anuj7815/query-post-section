@@ -1,0 +1,67 @@
+.login{
+    width: 100%;
+    height: 12vh;
+    background-color:rgb(238,238,238);
+    border: 1px solid grey;
+    padding-top: 50px;
+}
+.login h1{
+    font-weight: 200;
+    margin-left: 10px;  
+       
+
+}
+.login-form{
+     width: 100%;
+     height: 50vh;
+     margin-top: 20px;
+}
+.left-part{
+    width: 30%;
+    display: inline-block;
+    margin: 6% 9%;
+}
+.left-part h3{
+     color: #cf2e2e;
+     border-bottom: 1px solid grey;
+     margin-bottom: 20px;
+     font-size: 23px;
+}
+.left-part input{
+     margin-top: 10px;
+     width: 100%;
+     height: 35px;
+}
+.left-part button{
+    padding: 15px 200px;
+    margin-top: 10px;
+    background-color: rgba(0, 0, 0, 0.802);
+    color: white;
+    cursor: pointer;
+}
+.right-part{
+    width: 30%;
+    display: inline-block;
+   
+   
+     
+}
+.right-part h3{
+    color: #cf2e2e;
+    border-bottom: 1px solid grey;
+    margin-bottom: 20px;
+    
+    
+}
+.right-part p{
+    color: #cf2e2e;
+   
+}
+.right-part button{
+    padding: 8px 20px;
+    margin-top: 10px;
+    background-color: #cf2e2e;
+    color: white;
+    cursor: pointer;
+   
+}

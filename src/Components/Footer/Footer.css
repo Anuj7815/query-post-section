@@ -1,0 +1,21 @@
+.footer {
+  width: 100%;
+  height: 35vh;
+  background-color: rgba(0, 0, 0, 0.864);
+  position: relative;
+  bottom: 0;
+  margin-top: 0;
+}
+
+.content {
+  width: 100%;
+  text-align: center;
+  color: white;
+}
+.content img{
+    width: 10%;
+    margin-top: 15px;
+}
+.content p {
+  margin-top: 20px;
+}
