@@ -1,6 +1,21 @@
-.main-box{
-     display: flex;
-     flex-wrap: wrap;
-     justify-content: space-around;
+.main-box {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 30px;
 }
 
+.search-box {
+  margin-top: 10px;
+  margin-left: 31%;
+}
+
+.search-box input {
+  width: 55%;
+  height: 45px;
+  margin-top: 15px;
+  color: black;
+  text-align: center;
+  font-size: 15px;
+  border-radius: 10px;
+  border: 1px solid gray;
+}
